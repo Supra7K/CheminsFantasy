@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Levels/MainMenu.umap",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Levels/TestingMap.umap"
+			]
+		}
+	]
+}
