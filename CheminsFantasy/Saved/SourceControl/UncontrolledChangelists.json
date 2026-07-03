@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Levels/MainMenu.umap",
-				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Levels/TestingMap.umap"
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Levels/TestingMap.umap",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/GameModes/GM_MainMenu.uasset",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Widgets/WBP_MainMenu.uasset",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/PC_MainMenu.uasset",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/BP_Player.uasset"
 			]
 		}
 	]
