@@ -10,7 +10,9 @@
 				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/GameModes/GM_MainMenu.uasset",
 				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Widgets/WBP_MainMenu.uasset",
 				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/PC_MainMenu.uasset",
-				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/BP_Player.uasset"
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/BP_Player.uasset",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/GameModes/GM_Game.uasset",
+				"E:/Unreal Projects/CheminsFantasy/CheminsFantasy/Content/Core/Player/PC_Game.uasset"
 			]
 		}
 	]
