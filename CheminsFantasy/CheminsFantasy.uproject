@@ -10,6 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "UniversalVoiceChatPro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/eda7d893311147d1b7a6e8084be096c4"
+		},
+		{
+			"Name": "SmoothSyncPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
 		}
 	]
 }
